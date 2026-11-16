@@ -1,0 +1,6 @@
+{
+  "name": "HealthPredict AI — Hospital Readmission Prediction Platform",
+  "description": "Production-grade healthcare ML platform predicting 30-day diabetic patient readmissions using the UCI 130-US Hospitals dataset, featuring interactive risk assessment, SHAP explainable AI, and clinical prioritization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
